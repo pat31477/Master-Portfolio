@@ -1,4 +1,4 @@
-# PatrickWalkerPortfolio
+# MasterPortfolio
 
 1. [ Description. ](#desc)
 2. [ Web Address. ](#web-address)
@@ -11,10 +11,10 @@
 ## 1. Description
 
 
-### Updated Professional Portfolio for Patrick E. Walker
+### Master Portfolio for Patrick E. Walker
 
 Technology Used:
-This portfolio was built using HTML, CSS, BootStrap as well as .png, .jpg, and .gif files
+This is the 3rd version of my professional portfolio. This portfolio was built using HTML, CSS, BootStrap as well as .png, .jpg, and .gif files
 
 Main Page:
 
