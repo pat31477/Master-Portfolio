@@ -1,5 +1,7 @@
 # MasterPortfolio
 
+![License](https://img.shields.io/badge/License%3A-MIT-green.svg)
+
 1. [ Description. ](#desc)
 2. [ Web Address. ](#web-address)
 3. [ Usage tips. ](#usage)
@@ -11,10 +13,13 @@
 ## 1. Description
 
 
-### Master Portfolio for Patrick E. Walker
+### Patrick E. Walker's Master Portfolio
+This is the 3rd version of my professional portfolio. 
 
-Technology Used:
-This is the 3rd version of my professional portfolio. This portfolio was built using HTML, CSS, BootStrap as well as .png, .jpg, and .gif files
+Technology Used::
+
+ ![html5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) ![css3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) 
+ ![bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white) 
 
 Main Page:
 
@@ -37,6 +42,7 @@ Github Repository: https://github.com/pat31477/Master-Portfolio
 <a name="usage"></a>
 ## 3. Usage Tips
 
+![License](https://img.shields.io/badge/License%3A-MIT-green.svg)
 
 ### Use the controls in the top left to view About, Portfolio, and Contact.
 
@@ -64,6 +70,7 @@ Resume:
 
 ### Contact via Email.
 
+
 Click the Email Me button to contact me .
 
 ![body-section](./Assets/Images/Navigation_Contact.jpg?raw=true "Body Section")
@@ -72,13 +79,14 @@ Click the Email Me button to contact me .
 
 <a name="contributions"></a>
 ## 4. Contributions
-Thank you to the following for suggestions, insights, and making sure I didn't miss anything!
+Thank you to my friend for suggestions, insights, making sure I didn't miss anything, and to keep me going when doubt kicks in!
 
-* Gabe Thomas (https://github.com/samohtebag)
+*  [![GitHub](https://img.shields.io/badge/Gabe%20Thomas-Click%20Me!-blueviolet?style=plastic&logo=GitHub)](https://github.com/samohtebag) 
+  [![LinkedIn](https://img.shields.io/badge/Gabriel%20Thomas%20-Click%20Me!-grey?style=plastic&logo=LinkedIn&labelColor=blue)](https://www.linkedin.com/in/gabriel-thomas513/)
 
 <a name="licensing"></a>
-## 5. Licensing
-Copyright (c) 2021 Patrick E. Walker
+## 5. Licensing ![License](https://img.shields.io/badge/License%3A-MIT-green.svg)
+Copyright (c) 2021 [![GitHub](https://img.shields.io/badge/Patrick%20Walker-Click%20Me!-blueviolet?style=plastic&logo=GitHub)](https://github.com/pat31477)
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
