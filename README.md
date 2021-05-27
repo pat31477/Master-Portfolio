@@ -46,7 +46,7 @@ Navigation Controls:
 
 
 
-### Connect with on LinkedIn and or Github.
+### Connect with me on LinkedIn and or Github.
 
 LinkedIn:
 
