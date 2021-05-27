@@ -81,7 +81,7 @@ Click the Email Me button to contact me .
 ## 4. Contributions
 Thank you to my friend for suggestions, insights, making sure I didn't miss anything, and to keep me going when doubt kicks in!
 
-*  [![GitHub](https://img.shields.io/badge/Gabe%20Thomas-Click%20Me!-blueviolet?style=plastic&logo=GitHub)](https://github.com/samohtebag) 
+[![GitHub](https://img.shields.io/badge/Gabe%20Thomas-Click%20Me!-blueviolet?style=plastic&logo=GitHub)](https://github.com/samohtebag) 
   [![LinkedIn](https://img.shields.io/badge/Gabriel%20Thomas%20-Click%20Me!-grey?style=plastic&logo=LinkedIn&labelColor=blue)](https://www.linkedin.com/in/gabriel-thomas513/)
 
 <a name="licensing"></a>
