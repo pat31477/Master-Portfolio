@@ -20,9 +20,9 @@ Main Page:
 
 ![Top-Page-Area](./Assets/Images/Main_Page.png?raw=true "Top-Page-Area")
 
-Profile Page:
+My Work Page:
 
-![Top-Page-Area](./Assets/Images/Portfolio_Page.gif?raw=true "Top-Page-Area")
+![Top-Page-Area](./Assets/Images/My_Work.gif?raw=true "Top-Page-Area")
 
 <a name="web-address"></a>
 ## 2. How to Get There
@@ -30,9 +30,9 @@ Profile Page:
 ### Click link to open in your browser.
 
 
-Deployed Portfolio: https://pat31477.github.io/PatrickWalkerPortfolio/
+Deployed Portfolio: https://pat31477.github.io/Master-Portfolio/index.html
 
-Github Repository: https://github.com/pat31477/PatrickWalkerPortfolio
+Github Repository: https://github.com/pat31477/Master-Portfolio
 
 <a name="usage"></a>
 ## 3. Usage Tips
@@ -56,15 +56,15 @@ Github:
 
 ![body-section](./Assets/Images/Connect_Github.gif?raw=true "Body Section")
 
-### View/Download/Print resume`.
+### View/Download/Print resume.
 
-Resume`:
+Resume:
 
-![body-section](./Assets/Images/Resume`.gif?raw=true "Body Section")
+![body-section](./Assets/Images/Resume.gif?raw=true "Body Section")
 
 ### Contact via Email.
 
-Click the contact button to email me.
+Click the Email Me button to contact me .
 
 ![body-section](./Assets/Images/Navigation_Contact.jpg?raw=true "Body Section")
 
